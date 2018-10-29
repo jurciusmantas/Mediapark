@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_openMap"
+        android:title="@string/action_openmap"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_openList"
+        android:title="@string/action_openlist"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_openFilter"
+        android:title="@string/action_openfilter"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home page"
+        app:showAsAction="always"/>
+
+</menu>

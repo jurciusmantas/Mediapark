@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mediapark</string>
+    <string name="infoID">ID :</string>
+    <string name="infoLocation">Location info :</string>
+    <string name="infoLatitude">Latitude :</string>
+    <string name="infoLongitude">Longitude :</string>
+    <string name="infoAddress">Address :</string>
+    <string name="infoBatteryPercentage">Battery percentage :</string>
+    <string name="infoBatteryEstimatedDistance">Battery estimated distance :</string>
+    <string name="infoModel">Model info :</string>
+    <string name="infoModelTitle">Model title :</string>
+    <string name="infoPlateNumber">Plate number :</string>
+    <string name="infoIsCharging">Is charging :</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="openList">Open list of cars</string>
+    <string name="openMap">Open map</string>
+    <string name="infoGeneral">General info :</string>
+    <string name="photo">Car photo :</string>
+    <string name="openLocationInMap">Open location in map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_openmap">Open map</string>
+    <string name="action_openlist">Open list</string>
+    <string name="action_openfilter">Open filter</string>
+    <string name="filter">FILTER :</string>
+    <string name="distanceFromUser">Distance from user (km) :</string>
+    <string name="batteryOn">Most charged at the top</string>
+    <string name="batteryOff">Least charged at the top</string>
+    <string name="distanceOn">Nearest at the top</string>
+    <string name="distanceOff">Farthest at the top</string>
+</resources>
